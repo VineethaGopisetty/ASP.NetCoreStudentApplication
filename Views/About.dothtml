@@ -1,0 +1,9 @@
+﻿@viewModel DotvvmApp1.ViewModels.AboutViewModel, DotvvmApp1
+@masterPage Views/Site.dotmaster
+
+<dot:Content ContentPlaceHolderID="MainContent">
+    <center>
+        <h1>Namaste </h1>
+        <a href="Students">Go to university data</a></center>
+</dot:Content>
+
